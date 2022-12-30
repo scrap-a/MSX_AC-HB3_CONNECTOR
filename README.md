@@ -1,0 +1,2 @@
+# MSX_AC-HB3_CONNECTOR
+MSX特殊ACアダプタのコネクタ補修用3Dパーツのモデル
