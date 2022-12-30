@@ -49,3 +49,7 @@ DC9VとAC18Vの電源をどのように準備するか、どのように接続�
 ![overview image](image/finish4.jpg)
 ![overview image](image/finish5.jpg)
 ![overview image](image/finish6.jpg)
+
+# 参考
+下記Blogにてもう少々詳しく書いています。
+http://blog.livedoor.jp/scrap_a/archives/32539533.html
